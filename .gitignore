@@ -1,1 +1,4 @@
-fileD.txt
+*.txt
+!fileA.txt
+!fileB.txt
+!fileS.txt
